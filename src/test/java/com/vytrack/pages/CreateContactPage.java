@@ -1,14 +1,10 @@
 package com.vytrack.pages;
 
-import com.vytrack.utility.BrowserUtil;
 import com.vytrack.utility.Driver;
-import com.github.javafaker.Faker;
-import net.bytebuddy.asm.Advice;
-import org.openqa.selenium.Keys;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 

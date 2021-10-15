@@ -1,6 +1,5 @@
 package com.vytrack.pages;
 
-import com.vytrack.utility.BrowserUtil;
 import com.vytrack.utility.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

@@ -22,8 +22,7 @@ public class CommonAreaPage {
     public WebElement userName;
 
     @FindBy(css = "div[class='loader-mask shown']")
-    @CacheLookup
-    protected WebElement loaderMask;
+    public WebElement loaderMask;
 
     @FindBy(linkText = "My User")
     public WebElement myUser;
